@@ -1,0 +1,43 @@
+.logo{
+  height: 6rem;
+  width: 21rem;
+}
+
+.thumbnail {
+  position: relative;
+}
+
+.caption {
+  position: absolute;
+  top: 45%;
+  left: 0;
+  width: 100%;
+}
+
+.sidebar-sticky img{
+  width: 10rem;
+  height: 10rem;
+  opacity: 0.5;
+}
+
+.sidebar-sticky img:focus{
+  opacity: 0.9;
+}
+
+.asserts .card{
+  height: 16rem;
+  margin-left: 2rem;
+}
+
+.asserts .card img{
+  width: 8rem;
+  height: 8rem;
+}
+
+.asserts .card-body .card-text button{
+  font-size: 12px;
+}
+
+.sidebar .sidebar-sticky .thumbnail .caption{
+  top: 9%;
+}
